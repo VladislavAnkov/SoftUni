@@ -6,3 +6,6 @@
 
 # User-specific files
 *.suo
+
+# Visual Studio 2019 cache/options directory
+*.vs\
