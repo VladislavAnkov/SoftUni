@@ -3,11 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BasicStackOperations", "01.BasicStackOperations\01.BasicStackOperations.csproj", "{3E79CA3B-E802-49B4-A3DD-B81D235D498D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.BasicStackOperations", "01.BasicStackOperations\01.BasicStackOperations.csproj", "{3E79CA3B-E802-49B4-A3DD-B81D235D498D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.BasicQueueOperations", "02.BasicQueueOperations\02.BasicQueueOperations.csproj", "{ACE41F06-2BB9-45D2-AF25-70DCFD383078}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BasicQueueOperations", "02.BasicQueueOperations\02.BasicQueueOperations.csproj", "{ACE41F06-2BB9-45D2-AF25-70DCFD383078}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MaxAndMinElement", "03.MaxAndMinElement\03.MaxAndMinElement.csproj", "{E01DAC9F-223E-4AB4-8A0B-A5CF1D73F01B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.MaxAndMinElement", "03.MaxAndMinElement\03.MaxAndMinElement.csproj", "{E01DAC9F-223E-4AB4-8A0B-A5CF1D73F01B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FastFood", "04.FastFood\04.FastFood.csproj", "{AAB5F09B-E0EF-4A7D-AEE3-6A3D1B932D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RackCapacity", "05.RackCapacity\05.RackCapacity.csproj", "{335AB318-6B58-4278-A3D2-44C17AE1E30E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SongsQueue", "06.SongsQueue\06.SongsQueue.csproj", "{5C7BB14F-6FFA-4AFE-9C3B-69C1C591416B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.TruckTour", "07.TruckTour\07.TruckTour.csproj", "{92399277-A805-494E-BB06-35239FBAA3C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.BalancedParentheses", "08.BalancedParentheses\08.BalancedParentheses.csproj", "{5DB907DD-B58E-4501-996D-83D5269CA02A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +37,26 @@ Global
 		{E01DAC9F-223E-4AB4-8A0B-A5CF1D73F01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E01DAC9F-223E-4AB4-8A0B-A5CF1D73F01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E01DAC9F-223E-4AB4-8A0B-A5CF1D73F01B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAB5F09B-E0EF-4A7D-AEE3-6A3D1B932D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAB5F09B-E0EF-4A7D-AEE3-6A3D1B932D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAB5F09B-E0EF-4A7D-AEE3-6A3D1B932D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAB5F09B-E0EF-4A7D-AEE3-6A3D1B932D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335AB318-6B58-4278-A3D2-44C17AE1E30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335AB318-6B58-4278-A3D2-44C17AE1E30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335AB318-6B58-4278-A3D2-44C17AE1E30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335AB318-6B58-4278-A3D2-44C17AE1E30E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7BB14F-6FFA-4AFE-9C3B-69C1C591416B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7BB14F-6FFA-4AFE-9C3B-69C1C591416B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7BB14F-6FFA-4AFE-9C3B-69C1C591416B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7BB14F-6FFA-4AFE-9C3B-69C1C591416B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92399277-A805-494E-BB06-35239FBAA3C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92399277-A805-494E-BB06-35239FBAA3C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92399277-A805-494E-BB06-35239FBAA3C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92399277-A805-494E-BB06-35239FBAA3C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB907DD-B58E-4501-996D-83D5269CA02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB907DD-B58E-4501-996D-83D5269CA02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB907DD-B58E-4501-996D-83D5269CA02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB907DD-B58E-4501-996D-83D5269CA02A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
