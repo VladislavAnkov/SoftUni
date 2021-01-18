@@ -9,15 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.BasicQueueOperations", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.MaxAndMinElement", "03.MaxAndMinElement\03.MaxAndMinElement.csproj", "{E01DAC9F-223E-4AB4-8A0B-A5CF1D73F01B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.FastFood", "04.FastFood\04.FastFood.csproj", "{AAB5F09B-E0EF-4A7D-AEE3-6A3D1B932D1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.FastFood", "04.FastFood\04.FastFood.csproj", "{AAB5F09B-E0EF-4A7D-AEE3-6A3D1B932D1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.RackCapacity", "05.RackCapacity\05.RackCapacity.csproj", "{335AB318-6B58-4278-A3D2-44C17AE1E30E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.RackCapacity", "05.RackCapacity\05.RackCapacity.csproj", "{335AB318-6B58-4278-A3D2-44C17AE1E30E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.SongsQueue", "06.SongsQueue\06.SongsQueue.csproj", "{5C7BB14F-6FFA-4AFE-9C3B-69C1C591416B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.SongsQueue", "06.SongsQueue\06.SongsQueue.csproj", "{5C7BB14F-6FFA-4AFE-9C3B-69C1C591416B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.TruckTour", "07.TruckTour\07.TruckTour.csproj", "{92399277-A805-494E-BB06-35239FBAA3C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.TruckTour", "07.TruckTour\07.TruckTour.csproj", "{92399277-A805-494E-BB06-35239FBAA3C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.BalancedParentheses", "08.BalancedParentheses\08.BalancedParentheses.csproj", "{5DB907DD-B58E-4501-996D-83D5269CA02A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.BalancedParentheses", "08.BalancedParentheses\08.BalancedParentheses.csproj", "{5DB907DD-B58E-4501-996D-83D5269CA02A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.SimpleTextEditor", "09.SimpleTextEditor\09.SimpleTextEditor.csproj", "{C35A6EA0-BA48-4677-B58A-5B52D6AB950C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.KeyRevolver", "11.KeyRevolver\11.KeyRevolver.csproj", "{A36642FD-734E-47F4-96A9-0D3D0EDA91FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{5DB907DD-B58E-4501-996D-83D5269CA02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DB907DD-B58E-4501-996D-83D5269CA02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DB907DD-B58E-4501-996D-83D5269CA02A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35A6EA0-BA48-4677-B58A-5B52D6AB950C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35A6EA0-BA48-4677-B58A-5B52D6AB950C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35A6EA0-BA48-4677-B58A-5B52D6AB950C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35A6EA0-BA48-4677-B58A-5B52D6AB950C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36642FD-734E-47F4-96A9-0D3D0EDA91FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36642FD-734E-47F4-96A9-0D3D0EDA91FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36642FD-734E-47F4-96A9-0D3D0EDA91FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36642FD-734E-47F4-96A9-0D3D0EDA91FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
