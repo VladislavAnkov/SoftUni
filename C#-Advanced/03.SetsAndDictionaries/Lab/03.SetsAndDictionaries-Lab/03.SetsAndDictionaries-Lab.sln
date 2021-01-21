@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SetsAndDictionaries-Lab", "03.SetsAndDictionaries-Lab\03.SetsAndDictionaries-Lab.csproj", "{94F56E67-131A-47FB-81F0-497D6A3102B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.CountSameValues", "01.CountSameValues\01.CountSameValues.csproj", "{350CA8A3-B9CD-4145-BDA6-431C8515ED1A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CountSameValues", "01.CountSameValues\01.CountSameValues.csproj", "{350CA8A3-B9CD-4145-BDA6-431C8515ED1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AverageStudentsGrades", "02.AverageStudentsGrades\02.AverageStudentsGrades.csproj", "{20249E00-D97E-4E6E-B135-92C91AE8C705}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{350CA8A3-B9CD-4145-BDA6-431C8515ED1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{350CA8A3-B9CD-4145-BDA6-431C8515ED1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{350CA8A3-B9CD-4145-BDA6-431C8515ED1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20249E00-D97E-4E6E-B135-92C91AE8C705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20249E00-D97E-4E6E-B135-92C91AE8C705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20249E00-D97E-4E6E-B135-92C91AE8C705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20249E00-D97E-4E6E-B135-92C91AE8C705}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

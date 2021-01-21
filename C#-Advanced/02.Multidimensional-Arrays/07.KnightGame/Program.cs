@@ -99,7 +99,6 @@ namespace _07.KnightGame
                     break;
                 }
             }
-
         }
 
         private static bool IsInMatrix(char[,] matrix, int targetRow, int targetCol)
