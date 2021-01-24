@@ -70,7 +70,7 @@ namespace _08.Ranking
 
                 foreach (KeyValuePair<string, int> contest in student.Value.OrderByDescending(x => x.Value))
                 {
-                    Console.WriteLine($"# {contest.Key} -> {contest.Value}");
+                    Console.WriteLine($"#  {contest.Key} -> {contest.Value}");
                 }
             }
             
